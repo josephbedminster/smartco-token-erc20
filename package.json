@@ -1,5 +1,5 @@
 {
-  "name": "daneel-token",
+  "name": "smartco-token",
   "version": "1.0.1",
   "description": "",
   "main": "truffle.js",
@@ -10,7 +10,7 @@
     "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Esteban Gonzalez & Joseph Bedminster",
+  "author": "Joseph Bedminster",
   "license": "MIT",
   "devDependencies": {
     "lite-server": "^2.3.0"
